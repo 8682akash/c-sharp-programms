@@ -11,30 +11,30 @@ namespace newprpgramm
 
     internal class grossalary
     {
-        public static void Main(string[] args)
-        {
-            Console.WriteLine("enter the sallary");
-            int BS=Convert.ToInt32(Console.ReadLine());
-            if (BS <= 10000)
-            {
-                int DA = (BS / 100) * 80;
-                int HRA =(BS / 100) * 20;
-                int GS = BS + DA + HRA;
-                Console.WriteLine("gross salary is"+GS);
-            }else if(BS>10000 || BS <= 20000)
-            {
-                int DA1 = (BS / 100) * 90;
-                int HRA1 = (BS / 100) * 35;
-                int GS1 = BS + DA1 + HRA1;
-                Console.WriteLine("gross salary is" + GS1);
-            }
-            else
-            {
-                int DA2 = (BS / 100) * 95;
-                int HRA2 = (BS / 100) * 40;
-                int GS2 = BS + DA2 + HRA2;
-                Console.WriteLine("gross salary is" + GS2);
-            }
-        }
+        //public static void Main(string[] args)
+        //{
+        //    Console.WriteLine("enter the sallary");
+        //    int BS=Convert.ToInt32(Console.ReadLine());
+        //    if (BS <= 10000)
+        //    {
+        //        int DA = (BS / 100) * 80;
+        //        int HRA =(BS / 100) * 20;
+        //        int GS = BS + DA + HRA;
+        //        Console.WriteLine("gross salary is"+GS);
+        //    }else if(BS>10000 || BS <= 20000)
+        //    {
+        //        int DA1 = (BS / 100) * 90;
+        //        int HRA1 = (BS / 100) * 35;
+        //        int GS1 = BS + DA1 + HRA1;
+        //        Console.WriteLine("gross salary is" + GS1);
+        //    }
+        //    else
+        //    {
+        //        int DA2 = (BS / 100) * 95;
+        //        int HRA2 = (BS / 100) * 40;
+        //        int GS2 = BS + DA2 + HRA2;
+        //        Console.WriteLine("gross salary is" + GS2);
+        //    }
+        //}
     }
 }
