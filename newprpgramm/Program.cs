@@ -8,9 +8,9 @@ namespace newprpgramm
 {
     internal class Program
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("hello wolrd");
-        }
+        //static void Main(string[] args)
+        //{
+        //    Console.WriteLine("hello wolrd");
+        //}
     }
 }
