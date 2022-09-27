@@ -6,6 +6,8 @@ using System.Threading.Tasks;
 
 namespace newprpgramm
 {
+    // WAP to print hello world.
+
     internal class Program
     {
         //static void Main(string[] args)

@@ -44,11 +44,18 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="add.cs" />
+    <Compile Include="allopinoneprg.cs" />
+    <Compile Include="charwowel.cs" />
     <Compile Include="division.cs" />
+    <Compile Include="grossalary.cs" />
+    <Compile Include="leapyear.cs" />
     <Compile Include="multiplication.cs" />
+    <Compile Include="oddeven.cs" />
+    <Compile Include="positivenegative.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="sub.cs" />
+    <Compile Include="swaping.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

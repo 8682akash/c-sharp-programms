@@ -6,6 +6,8 @@ using System.Threading.Tasks;
 
 namespace newprpgramm
 {
+    // WAP multipilcation of two numbers
+
     internal class multiplication
     {
         //static void Main(string[] args)

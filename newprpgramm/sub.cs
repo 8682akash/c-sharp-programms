@@ -6,6 +6,8 @@ using System.Threading.Tasks;
 
 namespace newprpgramm
 {
+    // WAP substraction of two numbers
+
     internal class sub
     {
         //static void Main(string[] args)
