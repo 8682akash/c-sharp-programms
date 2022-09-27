@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="100to80revprimenum.cs" />
     <Compile Include="add.cs" />
     <Compile Include="allopinoneprg.cs" />
     <Compile Include="charwowel.cs" />
@@ -56,6 +57,7 @@
     <Compile Include="pattern1.cs" />
     <Compile Include="positivenegative.cs" />
     <Compile Include="primenum.cs" />
+    <Compile Include="print1to100.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="studentinfo.cs" />
@@ -63,6 +65,9 @@
     <Compile Include="swaping.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="..\.editorconfig">
+      <Link>.editorconfig</Link>
+    </None>
     <None Include="App.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

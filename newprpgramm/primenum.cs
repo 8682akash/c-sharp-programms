@@ -8,23 +8,26 @@ namespace newprpgramm
 {
     internal class primenum
     {
-        public static void Main(string[] args)
-        {
-            for (int num = 1; num <= 100; num++)
-            {
-                int count = 0;
-                for (int i = 1; i <= num; i++)
-                {
-                    if (num % i == 0)
-                    {
-                        count++;
-                    }
-                }
-                if (count == 2)
-                {
-                    Console.WriteLine(num);
-                }
-            }
-        }
+
+        //WAP to print 1 to 100 prime numbers
+
+        //public static void Main(string[] args)
+        //{
+        //    for (int num = 1; num <= 100; num++)
+        //    {
+        //        int count = 0;
+        //        for (int i = 1; i <= num; i++)
+        //        {
+        //            if (num % i == 0)
+        //            {
+        //                count++;
+        //            }
+        //        }
+        //        if (count == 2)
+        //        {
+        //            Console.WriteLine(num);
+        //        }
+        //    }
+        //}
     }
 }
