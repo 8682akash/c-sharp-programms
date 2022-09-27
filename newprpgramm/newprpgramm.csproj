@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="100to80revprimenum.cs" />
+    <Compile Include="1to50evennumbers.cs" />
     <Compile Include="add.cs" />
     <Compile Include="allopinoneprg.cs" />
     <Compile Include="charwowel.cs" />
