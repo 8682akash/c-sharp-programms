@@ -70,6 +70,7 @@
     <Compile Include="studentinfo.cs" />
     <Compile Include="sub.cs" />
     <Compile Include="swaping.cs" />
+    <Compile Include="vote.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="..\.editorconfig">
