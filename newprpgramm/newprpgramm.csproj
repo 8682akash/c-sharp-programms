@@ -48,6 +48,7 @@
     <Compile Include="50to80evennumbers.cs" />
     <Compile Include="add.cs" />
     <Compile Include="allopinoneprg.cs" />
+    <Compile Include="armstrong.cs" />
     <Compile Include="charwowel.cs" />
     <Compile Include="divide5and11.cs" />
     <Compile Include="division.cs" />
