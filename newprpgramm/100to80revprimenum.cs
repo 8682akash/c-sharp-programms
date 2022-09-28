@@ -8,8 +8,8 @@ namespace newprpgramm
 {
     internal class _100to80revprimenum
     {
-        for(int i=100;i>=80;i++){
+        //public static void Main(string[]args){
             
-        }
+        //}
     }
 }

@@ -56,6 +56,7 @@
     <Compile Include="leapyear.cs" />
     <Compile Include="marksheet.cs" />
     <Compile Include="multiplication.cs" />
+    <Compile Include="mulwithoutoperator.cs" />
     <Compile Include="oddeven.cs" />
     <Compile Include="pattern1.cs" />
     <Compile Include="positivenegative.cs" />
