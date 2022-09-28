@@ -62,6 +62,7 @@
     <Compile Include="pattern1.cs" />
     <Compile Include="positivenegative.cs" />
     <Compile Include="primenum.cs" />
+    <Compile Include="primeornotprime.cs" />
     <Compile Include="print1to100.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
