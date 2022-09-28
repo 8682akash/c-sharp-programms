@@ -8,18 +8,22 @@ namespace newprpgramm
 {
     internal class vote
     {
-        public static void Main(string[] args)
-        {
-            Console.WriteLine("enter the age");
-            int age=Convert.ToInt32(Console.ReadLine());
-            if (age >= 18)
-            {
-                Console.WriteLine("you are eligible for voting ");
-            }
-            else
-            {
-                Console.WriteLine("you are not eligible for voting");
-            }
-        }
+
+        //WAP to print candidate is eligible or not for voting
+
+        //public static void Main(string[] args)
+        //{
+        //    Console.WriteLine("enter the age");
+        //    int age=Convert.ToInt32(Console.ReadLine());
+        //    if (age >= 18)
+        //    {
+        //        Console.WriteLine("you are eligible for voting ");
+        //    }
+        //    else
+        //    {
+        //        Console.WriteLine("you are not eligible for voting");
+        //    }
+         
+        //}
     }
 }
