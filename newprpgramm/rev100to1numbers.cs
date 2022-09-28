@@ -11,12 +11,12 @@ namespace newprpgramm
 
         //WAP to print 100 to 1 reverse 
 
-        public static void Main(string[] args)
-        {
-            for(int i = 100; i >= 1; i--)
-            {
-                Console.WriteLine(i);
-            }
-        }
+        //public static void Main(string[] args)
+        //{
+        //    for(int i = 100; i >= 1; i--)
+        //    {
+        //        Console.WriteLine(i);
+        //    }
+        //}
     }
 }

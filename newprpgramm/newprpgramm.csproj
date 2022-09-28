@@ -51,6 +51,7 @@
     <Compile Include="charwowel.cs" />
     <Compile Include="divide5and11.cs" />
     <Compile Include="division.cs" />
+    <Compile Include="fibonacci.cs" />
     <Compile Include="grossalary.cs" />
     <Compile Include="leapyear.cs" />
     <Compile Include="marksheet.cs" />
