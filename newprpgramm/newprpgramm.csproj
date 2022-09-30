@@ -66,9 +66,12 @@
     <Compile Include="mulwithoutoperator.cs" />
     <Compile Include="oddeven.cs" />
     <Compile Include="out.cs" />
+    <Compile Include="Params.cs" />
     <Compile Include="pattern1.cs" />
     <Compile Include="pattern2.cs" />
     <Compile Include="pattern3.cs" />
+    <Compile Include="Pattern4.cs" />
+    <Compile Include="Pattern5.cs" />
     <Compile Include="positivenegative.cs" />
     <Compile Include="primenum.cs" />
     <Compile Include="primeornotprime.cs" />
