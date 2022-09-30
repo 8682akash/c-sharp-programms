@@ -10,8 +10,8 @@ namespace newprpgramm
 {
     internal class Programme
     {
-        //static void Main(string[] args)
-        //{
+        static void Main(string[] args)
+        {
 
         //    // Date
 
@@ -91,11 +91,11 @@ namespace newprpgramm
 
         //    //employeec
 
-        //    Employeec emp0 = new Employeec();
-        //    emp0.Payment(1001,"shardul",15000);
-        //    emp0.Netsalary();
-        //    Console.WriteLine(emp0.IH());
+        Employeec emp0 = new Employeec();
+        emp0.Payment(1001,"shardul",15000);
+        emp0.Netsalary();
+        Console.WriteLine(emp0.IH());
 
-        //}
+        }
     }
 }
