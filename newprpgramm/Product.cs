@@ -30,7 +30,9 @@ namespace newprpgramm
         }
         public string Display()
         {
+           // return $"id={id} name={name} price={price} discout={discount} finalprice={FN1}";
             return $"id={id} name={name} price={price} discout={discount} finalprice={FN1}";
+
         }
 
     }
