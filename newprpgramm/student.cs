@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data.Common;
 using System.Linq;
 using System.Runtime.ConstrainedExecution;
 using System.Text;
@@ -83,18 +84,62 @@ namespace newprpgramm
 
             //    //product 
 
-            Product p1 = new Product();
-            Console.WriteLine("enter thr id name per and final price");
-            p1.Dataadd(1, "HP laptop", 40000, 10.0);
-            p1.Finalprice();
-            Console.WriteLine(p1.Display());
+            //    Product p1 = new Product();
+            //    Console.WriteLine("enter thr id name per and final price");
+            //    p1.Dataadd(1, "HP laptop", 40000, 10.0);
+            //    p1.Finalprice();
+            //    Console.WriteLine(p1.Display());
 
-            //employeec
+            //    //employeec
 
-            Employeec emp0 = new Employeec();
-        emp0.Payment(1001,"shardul",15000);
-        emp0.Netsalary();
-        Console.WriteLine(emp0.IH());
+            //Employeec emp0 = new Employeec();
+            //emp0.Payment(1001, "shardul", 15000);
+            //emp0.Netsalary();
+            //Console.WriteLine(emp0.IH());
+
+            // constuctor student 
+
+            //Conststudent cs1 = new Conststudent();
+            //Console.WriteLine(cs1.GetValue());
+
+            //Conststudent cs2=new Conststudent(5,"umesh",80);
+            //Console.WriteLine(cs2.GetValue());
+
+            // constuctor cource
+
+            //Cource c5=new Cource();
+            //c5.Getinfo();
+            //Console.WriteLine(c5.Getinfo());
+
+            //ToString COurce
+
+            //Cource c10 = new Cource();
+            //Console.WriteLine(c10);
+
+            //Cource c11=new Cource(10,"priya",36000);
+            //Console.WriteLine(c11);
+
+
+
+           // ------ Property  in c#
+
+
+            //property initializer syntax
+
+            PropertyDept pd1 = new PropertyDept();
+            pd1.Deptid = 10;
+            pd1.Deptname = "cs";
+            pd1.Location = "pune";
+            Console.WriteLine(pd1);
+
+            // object initializer
+
+            PropertyDept pd2 = new PropertyDept { Deptid = 50 , Deptname = "it ", Location = "baramati" };
+            Console.WriteLine($"{pd2.Deptid} {pd2.Deptname}{pd2.Location}");
+
+
+
+
 
         }
     }
