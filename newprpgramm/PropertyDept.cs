@@ -7,33 +7,33 @@ using System.Threading.Tasks;
 
 namespace newprpgramm
 {
-    public class PropertyDept
-    {
-        private int deptid;
-        private string deptname;
-        private string location;
+    //public class PropertyDept
+    //{
+    //    private int deptid;
+    //    private string deptname;
+    //    private string location;
 
-        public int Deptid
-        {
-            get { return deptid; }  
-            set { deptid = value; }
-        }
-        public string Deptname
-        {
-            get { return deptname; }
-            set { deptname = value; }
-        }
+    //    public int Deptid
+    //    {
+    //        get { return deptid; }  
+    //        set { deptid = value; }
+    //    }
+    //    public string Deptname
+    //    {
+    //        get { return deptname; }
+    //        set { deptname = value; }
+    //    }
 
-        public string Location
-        {
-                get { return location; }    
-            set { location = value; }
+    //    public string Location
+    //    {
+    //            get { return location; }    
+    //        set { location = value; }
 
-        }
-        public override string ToString()
-        {
-            return $"id={deptid} name={deptname} location={location}";
-        }
-    }
+    //    }
+    //    public override string ToString()
+    //    {
+    //        return $"id={deptid} name={deptname} location={location}";
+    //    }
+    //}
     
 }

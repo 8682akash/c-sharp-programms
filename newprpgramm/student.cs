@@ -9,10 +9,10 @@ using System.Xml.Schema;
 
 namespace newprpgramm
 {
-    internal class Programme
-    {
-        static void Main(string[] args)
-        {
+    //internal class Programme
+    //{
+        //static void Main(string[] args)
+       // {
 
             //    // Date
 
@@ -126,21 +126,23 @@ namespace newprpgramm
 
             //property initializer syntax
 
-            PropertyDept pd1 = new PropertyDept();
-            pd1.Deptid = 10;
-            pd1.Deptname = "cs";
-            pd1.Location = "pune";
-            Console.WriteLine(pd1);
+            //PropertyDept pd1 = new PropertyDept();
+            //pd1.Deptid = 10;
+            //pd1.Deptname = "cs";
+            //pd1.Location = "pune";
+            //Console.WriteLine(pd1);
 
             // object initializer
 
-            PropertyDept pd2 = new PropertyDept { Deptid = 50 , Deptname = "it ", Location = "baramati" };
-            Console.WriteLine($"{pd2.Deptid} {pd2.Deptname}{pd2.Location}");
+            //PropertyDept pd2 = new PropertyDept { Deptid = 50 , Deptname = "it ", Location = "baramati" };
+            //Console.WriteLine($"{pd2.Deptid} {pd2.Deptname}{pd2.Location}");
+            
 
 
 
 
 
-        }
-    }
+
+      //  }
+  //  }
 }

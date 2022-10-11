@@ -49,9 +49,12 @@
     <Compile Include="add.cs" />
     <Compile Include="allopinoneprg.cs" />
     <Compile Include="armstrong.cs" />
+    <Compile Include="Autopropscource.cs" />
+    <Compile Include="Autopropsemp.cs" />
     <Compile Include="charwowel.cs" />
     <Compile Include="classstudent.cs" />
     <Compile Include="Conststudent.cs" />
+    <Compile Include="Count2.cs" />
     <Compile Include="Cource.cs" />
     <Compile Include="Date.cs" />
     <Compile Include="divide5and11.cs" />
@@ -60,13 +63,16 @@
     <Compile Include="employee.cs" />
     <Compile Include="Employeec.cs" />
     <Compile Include="fibonacci.cs" />
+    <Compile Include="Fibonacci2.cs" />
     <Compile Include="grossalary.cs" />
     <Compile Include="leapyear.cs" />
     <Compile Include="marksheet.cs" />
     <Compile Include="multiplication.cs" />
     <Compile Include="mulwithoutoperator.cs" />
+    <Compile Include="Objects.cs" />
     <Compile Include="oddeven.cs" />
     <Compile Include="out.cs" />
+    <Compile Include="Palindrome2.cs" />
     <Compile Include="Params.cs" />
     <Compile Include="pattern1.cs" />
     <Compile Include="pattern2.cs" />
@@ -86,6 +92,8 @@
     <Compile Include="student.cs" />
     <Compile Include="studentinfo.cs" />
     <Compile Include="sub.cs" />
+    <Compile Include="Sumofalldigit2.cs" />
+    <Compile Include="Swap2.cs" />
     <Compile Include="swaping.cs" />
     <Compile Include="vote.cs" />
   </ItemGroup>
