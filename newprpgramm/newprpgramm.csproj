@@ -46,7 +46,9 @@
     <Compile Include="100to80revprimenum.cs" />
     <Compile Include="1to50evennumbers.cs" />
     <Compile Include="50to80evennumbers.cs" />
+    <Compile Include="AbstractShape.cs" />
     <Compile Include="add.cs" />
+    <Compile Include="AlloperationOut.cs" />
     <Compile Include="allopinoneprg.cs" />
     <Compile Include="armstrong.cs" />
     <Compile Include="Autopropscource.cs" />
@@ -65,6 +67,7 @@
     <Compile Include="fibonacci.cs" />
     <Compile Include="Fibonacci2.cs" />
     <Compile Include="grossalary.cs" />
+    <Compile Include="InheritanceEmp.cs" />
     <Compile Include="leapyear.cs" />
     <Compile Include="marksheet.cs" />
     <Compile Include="multiplication.cs" />
@@ -72,6 +75,7 @@
     <Compile Include="Objects.cs" />
     <Compile Include="oddeven.cs" />
     <Compile Include="out.cs" />
+    <Compile Include="OverloadingCalculation.cs" />
     <Compile Include="Palindrome2.cs" />
     <Compile Include="Params.cs" />
     <Compile Include="pattern1.cs" />
@@ -88,6 +92,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="PropertyDept.cs" />
     <Compile Include="ref.cs" />
+    <Compile Include="RefSwap.cs" />
     <Compile Include="rev100to1numbers.cs" />
     <Compile Include="student.cs" />
     <Compile Include="studentinfo.cs" />
@@ -95,6 +100,7 @@
     <Compile Include="Sumofalldigit2.cs" />
     <Compile Include="Swap2.cs" />
     <Compile Include="swaping.cs" />
+    <Compile Include="Tostringemp2.cs" />
     <Compile Include="vote.cs" />
   </ItemGroup>
   <ItemGroup>
