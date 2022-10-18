@@ -55,6 +55,7 @@
     <Compile Include="Autopropsemp.cs" />
     <Compile Include="charwowel.cs" />
     <Compile Include="classstudent.cs" />
+    <Compile Include="CollectionsArray.cs" />
     <Compile Include="Conststudent.cs" />
     <Compile Include="Count2.cs" />
     <Compile Include="Cource.cs" />
