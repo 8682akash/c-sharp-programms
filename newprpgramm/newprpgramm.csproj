@@ -45,12 +45,15 @@
   <ItemGroup>
     <Compile Include="100to80revprimenum.cs" />
     <Compile Include="1to50evennumbers.cs" />
+    <Compile Include="2Darray.cs" />
     <Compile Include="50to80evennumbers.cs" />
     <Compile Include="AbstractShape.cs" />
     <Compile Include="add.cs" />
     <Compile Include="AlloperationOut.cs" />
     <Compile Include="allopinoneprg.cs" />
+    <Compile Include="Alternatearray.cs" />
     <Compile Include="armstrong.cs" />
+    <Compile Include="Arrayque1.cs" />
     <Compile Include="Autopropscource.cs" />
     <Compile Include="Autopropsemp.cs" />
     <Compile Include="charwowel.cs" />
@@ -74,6 +77,7 @@
     <Compile Include="multiplication.cs" />
     <Compile Include="mulwithoutoperator.cs" />
     <Compile Include="Objects.cs" />
+    <Compile Include="Occuranacearray.cs" />
     <Compile Include="oddeven.cs" />
     <Compile Include="out.cs" />
     <Compile Include="OverloadingCalculation.cs" />
@@ -95,6 +99,7 @@
     <Compile Include="ref.cs" />
     <Compile Include="RefSwap.cs" />
     <Compile Include="rev100to1numbers.cs" />
+    <Compile Include="Reversearray.cs" />
     <Compile Include="student.cs" />
     <Compile Include="studentinfo.cs" />
     <Compile Include="sub.cs" />
@@ -109,6 +114,9 @@
       <Link>.editorconfig</Link>
     </None>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Occurancearray.c" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
