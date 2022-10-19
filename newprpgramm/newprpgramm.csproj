@@ -72,6 +72,7 @@
     <Compile Include="Fibonacci2.cs" />
     <Compile Include="grossalary.cs" />
     <Compile Include="InheritanceEmp.cs" />
+    <Compile Include="Jaggedarray.cs" />
     <Compile Include="leapyear.cs" />
     <Compile Include="marksheet.cs" />
     <Compile Include="multiplication.cs" />

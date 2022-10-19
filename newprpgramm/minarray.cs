@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace newprpgramm
 {
-    internal class minarray
-    {
-        static void Main(string[] args)
-        {
+    //internal class minarray
+    //{
+    //    static void Main(string[] args)
+    //    {
 
-        }
-    }
+    //    }
+    //}
 }
