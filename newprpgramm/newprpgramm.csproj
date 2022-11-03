@@ -68,6 +68,8 @@
     <Compile Include="duck.cs" />
     <Compile Include="employee.cs" />
     <Compile Include="Employeec.cs" />
+    <Compile Include="Event1.cs" />
+    <Compile Include="Exdeligate.cs" />
     <Compile Include="fibonacci.cs" />
     <Compile Include="Fibonacci2.cs" />
     <Compile Include="grossalary.cs" />
@@ -75,6 +77,7 @@
     <Compile Include="Jaggedarray.cs" />
     <Compile Include="leapyear.cs" />
     <Compile Include="marksheet.cs" />
+    <Compile Include="Moveelementsinarray.cs" />
     <Compile Include="multiplication.cs" />
     <Compile Include="mulwithoutoperator.cs" />
     <Compile Include="Objects.cs" />
@@ -101,12 +104,16 @@
     <Compile Include="RefSwap.cs" />
     <Compile Include="rev100to1numbers.cs" />
     <Compile Include="Reversearray.cs" />
+    <Compile Include="StringBuilder.cs" />
+    <Compile Include="StringBuilder2.cs" />
+    <Compile Include="Stringope.cs" />
     <Compile Include="student.cs" />
     <Compile Include="studentinfo.cs" />
     <Compile Include="sub.cs" />
     <Compile Include="Sumofalldigit2.cs" />
     <Compile Include="Swap2.cs" />
     <Compile Include="swaping.cs" />
+    <Compile Include="Thread1.cs" />
     <Compile Include="Tostringemp2.cs" />
     <Compile Include="vote.cs" />
   </ItemGroup>
